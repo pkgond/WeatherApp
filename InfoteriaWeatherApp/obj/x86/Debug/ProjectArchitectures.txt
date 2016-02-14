@@ -1,0 +1,1 @@
+C:\Praveen\InfoteriaWeatherApp\InfoteriaWeatherApp\WeatherApp.csproj;x86
